@@ -1,15 +1,15 @@
 #include <conio.h>
 #include"Notas.h"
 int main() {
-	//Notas::registrarAlumnos();
-	//Notas::consultarAlumnos();
+	Notas::registrarAlumnos();
+	Notas::consultarAlumnos();
 
 	//Notas::registrarMateria();
-	//Notas::consultarMateria();
+	Notas::consultarMateria();
 	//Notas::registrarNotas();
 	//Notas::registrarNotas();
 	//Notas::consultarNotas();
 
-	Notas::promedioMateria();
+	//Notas::promedioMateria();
 	_getch();
 }
