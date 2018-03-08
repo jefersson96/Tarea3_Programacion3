@@ -1,2 +1,2 @@
 ﻿  main.cpp
-LINK : fatal error LNK1168: no se puede abrir C:\Users\jefersson\source\repos\Archivos\Debug\Archivos.exe para escritura
+  Archivos.vcxproj -> C:\Users\jefersson\source\repos\Archivos\Debug\Archivos.exe
